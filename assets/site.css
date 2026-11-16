@@ -588,7 +588,7 @@ html.js.pronto [data-entra] { opacity: 1; transform: none; }
 .dados { margin: 0; display: grid; gap: 18px; }
 .dados div { display: grid; grid-template-columns: 26px 1fr; gap: 2px 12px; align-items: start; }
 .dados svg { grid-row: span 2; width: 22px; height: 22px; margin-top: 3px; }
-.dados dt { font-size: .85rem; font-weight: 500; opacity: .8; }
+.dados dt { font-size: .85rem; font-weight: 600; }
 .dados dd { margin: 0; font-weight: 600; font-size: 1.05rem; }
 .dados a { text-decoration: none; border-bottom: 1px solid currentColor; }
 
